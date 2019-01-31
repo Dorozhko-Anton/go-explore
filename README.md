@@ -2,6 +2,8 @@
 
 ![](test.gif)
 
+![](test2.gif)
+
 
 "Montezuma's Revenge Solved by Go-Explore, a New Algorithm for Hard-Exploration Problems (Sets Records on Pitfall, Too)"
 https://eng.uber.com/go-explore/
