@@ -1,3 +1,6 @@
+Implementation by uber-research https://github.com/uber-research/go-explore
+And paper https://arxiv.org/abs/1901.10995
+
 # go-explore
 
 ![](test.gif)
